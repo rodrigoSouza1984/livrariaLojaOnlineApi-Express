@@ -2,6 +2,8 @@ criar conexão com banco postgress trocar em Banco de Dados Sequelize
 
 mongo configurar uma conexão local,
 
+Postgres - MongoDb - Sequelize
+
 npm eu
 
 npm início
